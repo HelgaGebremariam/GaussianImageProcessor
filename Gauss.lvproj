@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Gauss (SubVI).vi" Type="VI" URL="../../../../../Gauss (SubVI).vi"/>
 		<Item Name="gauss.vi" Type="VI" URL="../gauss.vi"/>
+		<Item Name="gaussian (SubVI).vi" Type="VI" URL="../gaussian (SubVI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
