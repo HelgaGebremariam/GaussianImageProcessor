@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="ApplyFilter (SubVI).vi" Type="VI" URL="../../gauss/ApplyFilter (SubVI).vi"/>
 		<Item Name="Gauss (SubVI).vi" Type="VI" URL="../../../../../Gauss (SubVI).vi"/>
 		<Item Name="gauss.vi" Type="VI" URL="../gauss.vi"/>
 		<Item Name="gaussian (SubVI).vi" Type="VI" URL="../gaussian (SubVI).vi"/>
